@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyAppli</string>
+    <string name="hello_hello">Hello World</string>
+    <string name="hello_hello1">
+ => dựa trên đặc điểm của mô hình để quyết định áp dụng vào dự án nào là phù hợp, phát huy những ưu điểm và khác phục nhược điểm của nó.
+Mô hình thác nước thường được áp dụng cho các dự án không thường xuyên bị thay đổi về yêu cầu và đây là điều phổ biến nên việc sử dụng Waterfall model cũng là điều dễ hiểu. đây là nhận định cá nhân của mình có thể đúng hoặc sai ạ.</string>
+    <string name="Hello">Hello</string>
+    <string name="Again">Again!</string>
+    <string name="Welcome">Welcome back you\'ve \nbeen missed</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Remember_me">Remember me</string>
+    <string name="Forgot">Forgot the password ?</string>
+    <string name="Login">Login</string>
+    <string name="Or">Or continue with</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Google">Google</string>
+    <string name="Don">Don\'t have an account? </string>
+    <string name="Signup">Sign up</string>
+
+
+
+
+
+
+
+
+
+</resources>
